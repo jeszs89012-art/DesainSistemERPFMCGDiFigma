@@ -1,0 +1,10 @@
+{
+  "description": "An FMCG distribution ERP for managing inventory, sales, finance, users, business rules, audit trails, and integration tests in one streamlined workspace.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
